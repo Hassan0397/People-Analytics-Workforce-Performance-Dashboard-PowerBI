@@ -103,7 +103,7 @@ Datasets used:
 - Employee table with performance heatmap  
 - Highlights: High performers & at-risk employees  
 
-**4️⃣ Engagement & Surveys**  
+[**4️⃣ Engagement & Surveys**](https://github.com/Hassan0397/People-Analytics-Workforce-Performance-Dashboard-PowerBI/blob/main/Survey%20dashboard.png)
 
 - Line Chart: Engagement trends  
 - Donut Chart: Sentiment distribution  
