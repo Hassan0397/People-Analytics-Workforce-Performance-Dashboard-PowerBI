@@ -97,7 +97,7 @@ Datasets used:
 - Bar Chart: Attrition by Department  
 - Table: Top 10 Departments by terminations  
 
-**3️⃣ Performance & Talent**  
+[**3️⃣ Performance & Talent**](https://github.com/Hassan0397/People-Analytics-Workforce-Performance-Dashboard-PowerBI/blob/main/Performance%20%26%20Tenure%20Overview.png)
 
 - Scatter Plot: Tenure vs Performance (bubble size = salary)  
 - Employee table with performance heatmap  
