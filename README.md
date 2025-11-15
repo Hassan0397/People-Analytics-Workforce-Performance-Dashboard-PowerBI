@@ -90,7 +90,7 @@ Datasets used:
 - Donut charts: Gender split, Active vs Exited  
 - Global slicers: Date, Department  
 
-**2️⃣ Hiring & Attrition**  
+[**2️⃣ Hiring & Attrition**](https://github.com/Hassan0397/People-Analytics-Workforce-Performance-Dashboard-PowerBI/blob/main/Hiring%20%26%20Attrition.png)  
 
 - Clustered Column: New Hires vs Terminations  
 - Line Chart: Attrition Rate trend  
