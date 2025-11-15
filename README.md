@@ -109,7 +109,7 @@ Datasets used:
 - Donut Chart: Sentiment distribution  
 - Bar Chart: Avg Engagement by Department  
 
-**5️⃣ Compensation & Org Health**  
+[**5️⃣ Compensation & Org Health**](https://github.com/Hassan0397/People-Analytics-Workforce-Performance-Dashboard-PowerBI/blob/main/Compensation%20%26%20Org%20Health.png)
 
 - KPI Cards: Total Salary Cost, Median Salary, Avg Reports per Manager  
 - Histogram: Salary distribution  
